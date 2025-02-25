@@ -1,9 +1,3 @@
-# Maze generator -- Randomized Prim Algorithm
-
-# This is Orestis Zekai's implementation of the Randomized Prim Algorithm. I have changed a couple
-# of things to make it work in my program, but it's pretty much identical. Here is Orestis's github,
-# https://github.com/OrWestSide/python-scripts/blob/master/maze.py. Thanks Orestis!
-
 ## Imports
 import random
 import numpy as np
