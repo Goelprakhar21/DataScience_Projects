@@ -1,0 +1,6 @@
+Create a virtual environment (preferred) with python==3.10 in your folder.
+Install the packages mentioned in requirements.txt using 'pip install -r requirements.txt"
+Go to Google ai studio's website to create a GOOGLE API Key
+Store your api key in .env
+
+Execute the code
